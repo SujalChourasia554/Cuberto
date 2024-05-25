@@ -1,7 +1,7 @@
 Shery.mouseFollower();
 Shery.makeMagnet(".magnet");
 Shery.hoverWithMediaCircle(".hvr",{videos: ["./video/0.mp4","./video/2.mp4" ,"./video/3.mp4"]});
-Shery.imageEffect("#s-right",{style:4, debug:true} )
+// Shery.imageEffect("#s-right",{style:4, debug:true} )
 
 
 
